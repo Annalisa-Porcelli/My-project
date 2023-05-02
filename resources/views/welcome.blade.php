@@ -41,20 +41,10 @@
     <div class="container container-team">
         <div class="text-center">
             <h2 class="section-heading text-uppercase title-team">{{__('ui.team')}}</h2>
-            <p class="text-muted text-team">{{__('ui.presentationTeam')}}</p>
+            <p class="text-muted text-team">Sono una giovane studente Aulab,che ha lavorato alla realizzazione del sito Presto.it</p>
         </div>
         <div class="row">
-            <div class="col-lg-4">
-                <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="{{ asset( 'images/CosimoLapace.jpeg') }}" class="img-fluid" alt="CosimoLapace" />
-                    <h4 class="member">Cosimo Lapace</h4>
-                    <p class="text-muted">Full Stack Developer Junior</p>
-                    <a class="btn icons-links icons-links2 mx-2 border-0" href="https://www.facebook.com/cosimo.lapace/"><i class="bi bi-facebook"></i></a>
-                    <a class="btn icons-links icons-links2 mx-2 border-0" href="https://github.com/CosimoLP"><i class="bi bi-github"></i></i></a>
-                    <a class="btn icons-links icons-links2  mx-2 border-0" href="https://www.linkedin.com/in/cosimo-lapace-89ab32194"><i class="bi bi-linkedin"></i></a>
-                </div>
-            </div>
-            <div class="col-lg-4">
+            <div class="col-lg-12">
                 <div class="team-member">
                     <img class="mx-auto rounded-circle" src="{{ asset( 'images/AnnalisaPorcelli.jpg') }}" class="img-fluid" alt="AnnalisaPorcelli" />
                     <h4 class="member">Annalisa Porcelli</h4>
@@ -62,16 +52,6 @@
                     <a class="btn icons-links icons-links2 mx-2 border-0" href="https://www.facebook.com/annalisaporcelli5"><i class="bi bi-facebook"></i></i></a>
                     <a class="btn icons-links icons-links2  mx-2 border-0" href="https://github.com/Annalisa-Porcelli"><i class="bi bi-github"></i></a>
                     <a class="btn icons-links icons-links2  mx-2 border-0" href="https://www.linkedin.com/in/annalisa-porcelli-a57574234/"><i class="bi bi-linkedin"></i></i></a>
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="team-member">
-                    <img class="mx-auto rounded-circle" src="{{ asset( 'images/GiuseppeBuscemi.jpeg') }}" class="img-fluid" alt="GiuseppeBuscemi" />
-                    <h4 class="member">Giuseppe Buscemi</h4>
-                    <p class="text-muted">Full Stack Developer Junior</p>
-                    <a class="btn icons-links icons-links2  mx-2 border-0" href="https://www.facebook.com/giuseppe.buscemi.92"><i class="bi bi-facebook"></i></i></a>
-                    <a class="btn icons-links icons-links2 mx-2 border-0" href="https://github.com/Giuseppe-Buscemi95"><i class="bi bi-github"></i></i></a>
-                    <a class="btn icons-links icons-links2 mx-2 border-0" href="https://www.linkedin.com/in/giuseppe-buscemi-8a1b1121b/"><i class="bi bi-linkedin"></i></i></a>
                 </div>
             </div>
         </div>

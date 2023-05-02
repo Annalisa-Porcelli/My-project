@@ -7,7 +7,6 @@ return[
     'titleCarouselend' =>' in your city',
     'saluta' => 'Hi',
     'team'=>'DEVELOPMENT TEAM',
-    'presentationTeam'=> 'We are a group of three young Aulab students who worked on the design of the website Presto.it',
     'workTeam'=> 'REQUEST TO BECOME A REVIEWER',
     'vantaggiTeam'=>'THE ADVANTAGES OF THE TEAM PRESTO.IT',
     'Smartworking'=>'Smartworking',

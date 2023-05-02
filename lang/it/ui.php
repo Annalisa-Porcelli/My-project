@@ -6,7 +6,6 @@ return[
     'titleCarouselspan'=>'migliori affari ',
     'titleCarouselend' =>'della tua città',
     'team'=>'TEAM DI SVILUPPO',
-    'presentationTeam'=> 'Siamo un gruppo di tre giovani studenti Aulab che hanno lavorato alla progettazione del sito Presto.it',
     'workTeam'=> 'RICHIEDI DI DIVENTARE REVISORE',
     'vantaggiTeam'=>'I VANTAGGI DEL TEAM PRESTO.IT',
     'Smartworking'=>'Smartworking',
