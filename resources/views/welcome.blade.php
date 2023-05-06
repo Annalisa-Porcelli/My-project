@@ -40,8 +40,8 @@
   <section class="page-section bg-light" id="team" data-aos="fade-left" data-aos-once="true">
     <div class="container container-team">
         <div class="text-center">
-            <h2 class="section-heading text-uppercase title-team">{{__('ui.team')}}</h2>
-            <p class="text-muted text-team">Sono una giovane studente Aulab,che ha lavorato alla realizzazione del sito Presto.it</p>
+            <h2 class="section-heading text-uppercase title-team">{{__('ui.createproject')}}</h2>
+            <p class="text-muted text-team">{{__('ui.info')}}</p>
         </div>
         <div class="row">
             <div class="col-lg-12">
